@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/sunwei/Downloads/mysql-connector-java/mysql-connector-java-5.1.26/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/sunwei/Downloads/javax.servlet的jar包/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/sunwei/Downloads/javax.servlet的jar包/javax.servlet.jsp.jar"/>
+	<classpathentry kind="lib" path="/Users/sunwei/Downloads/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/sunwei/Downloads/mysql-connector-java/mysql-connector-java-5.1.26/src/lib/ant-contrib.jar"/>
+	<classpathentry kind="lib" path="/Users/sunwei/Downloads/mysql-connector-java/mysql-connector-java-5.1.26/src/lib/c3p0-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="/Users/sunwei/Downloads/mysql-connector-java/mysql-connector-java-5.1.26/src/lib/c3p0-0.9.1-pre6.src.zip"/>
+	<classpathentry kind="lib" path="/Users/sunwei/Downloads/mysql-connector-java/mysql-connector-java-5.1.26/src/lib/jboss-common-jdbc-wrapper-src.jar"/>
+	<classpathentry kind="lib" path="/Users/sunwei/Downloads/mysql-connector-java/mysql-connector-java-5.1.26/src/lib/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry kind="lib" path="/Users/sunwei/Downloads/mysql-connector-java/mysql-connector-java-5.1.26/src/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
